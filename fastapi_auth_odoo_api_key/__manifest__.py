@@ -10,6 +10,7 @@
     "application": False,
     "installable": True,
     "depends": [
+        "apikey_scope_editable",
         "fastapi",
     ],
     "data": ["views/fastapi_endpoint.xml"],
