@@ -21,7 +21,7 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
-[fastapi_auth_odoo_api_key](fastapi_auth_odoo_api_key/) | 17.0.1.0.0 |  | Auhentication for FastApi using Odoo's built in apikeys
+[fastapi_auth_odoo_api_key](fastapi_auth_odoo_api_key/) | 17.0.1.1.0 |  | Auhentication for FastApi using Odoo's built in apikeys
 
 [//]: # (end addons)
 
