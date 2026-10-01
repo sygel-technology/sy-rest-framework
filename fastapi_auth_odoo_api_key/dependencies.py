@@ -62,7 +62,7 @@ def apikey_optionally_authenticated_partner_impl(
 
 
 def apikey_authenticated_partner_env(
-    partner: Annotated[Partner, Depends(apikey_authenticated_partner_impl)]
+    partner: Annotated[Partner, Depends(apikey_authenticated_partner_impl)],
 ) -> Environment:
     return partner.with_context(authenticated_partner_id=partner.id).env
 

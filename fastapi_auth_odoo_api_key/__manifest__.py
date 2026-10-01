@@ -5,7 +5,7 @@
     "summary": "Auhentication for FastApi using Odoo's built in apikeys",
     "version": "17.0.1.1.0",
     "website": "https://github.com/sygel-technology/sy-rest-framework",
-    "author": "Sygel, Odoo Community Association (OCA)",
+    "author": "Sygel",
     "license": "AGPL-3",
     "application": False,
     "installable": True,
